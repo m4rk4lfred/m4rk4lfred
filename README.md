@@ -36,12 +36,12 @@ I can debug code faster with iced coffee in hand ☕💻
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=m4rk4lfred&show_icons=true&theme=tokyonight" height="170">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=m4rk4lfred&theme=tokyonight" height="170">
+  <img src="https://github-readme-stats.vercel.app/api?username=m4rk4lfred&show_icons=true&theme=react" height="170">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=m4rk4lfred&theme=react" height="170">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4rk4lfred&layout=compact&theme=tokyonight" height="130">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4rk4lfred&layout=compact&theme=react" height="130">
 </p>
 
 ---
