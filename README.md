@@ -21,9 +21,8 @@
 - 🤖 Anything AI-related (starting to explore this!)
 
 ### 📫 How to reach me:
-[![Gmail Badge](https://img.shields.io/badge/-markalfred@example.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:markalfred@example.com)
-[![Facebook Badge](https://img.shields.io/badge/-MarkAlfred-blue?style=flat&logo=Facebook&logoColor=white)](https://facebook.com/yourprofile)
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077b5?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Gmail Badge](https://img.shields.io/badge/-m4rk4lfredstdy@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:m4rk4lfredstdy@gmail.com)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077b5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/feed/)
 [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=Google-Chrome&logoColor=white)](https://yourportfolio.com)
 
 ### 😄 Pronouns:
