@@ -7,7 +7,7 @@
 ---
 
 ## 🧑‍💼 ABOUT ME
-> *Coding forward. Learning always.*
+
 
 - 🎓 2nd Year Computer Science student at **Mariano Marcos State University**
 - 💻 Focused on **Java**, **C++**, **JavaScript**, and **web development**
