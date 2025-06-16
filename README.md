@@ -64,10 +64,8 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="300" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Code+is+not+just+syntax+—+it's+a+tool+for+building+the+future." alt="Inspirational Quote GIF" />
 </p>
-
-<p align="center"><i>"Code is not just syntax — it's a tool for building the future."</i></p>
 
 ---
 
