@@ -6,7 +6,8 @@
 
 ---
 
-### 📌 About Me
+## 🧑‍💼 ABOUT ME
+> *Coding forward. Learning always.*
 
 - 🎓 2nd Year Computer Science student at **Mariano Marcos State University**
 - 💻 Focused on **Java**, **C++**, **JavaScript**, and **web development**
@@ -15,7 +16,7 @@
 
 ---
 
-### 🚀 Tech Stack
+## 🧰 TECH STACK
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,cpp,js,html,css,react,nodejs,express,mysql,tailwind,bootstrap,git,vscode,figma" />
@@ -23,7 +24,7 @@
 
 ---
 
-### 📊 GitHub Insights
+## 📊 GITHUB INSIGHTS
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=m4rk4lfred&show_icons=true&theme=transparent&hide_border=true&icon_color=36BCF7&title_color=36BCF7" height="180px"/>
@@ -36,15 +37,15 @@
 
 ---
 
-### 🌱 Currently Exploring
+## 🌱 CURRENTLY EXPLORING
 
-- Full-Stack Engineering (React + Express + SQL)
-- Frontend Animation using Tailwind & Framer Motion
-- Efficient backend logic and RESTful API design
+- 📦 Full-Stack Engineering (React + Express + MySQL)
+- 🎨 Frontend Animation (Tailwind + Framer Motion)
+- 🧠 REST API architecture and backend logic
 
 ---
 
-### 🤝 Let’s Connect
+## 🤝 CONNECT WITH ME
 
 <p align="center">
   <a href="mailto:m4rk4lfredstdy@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
@@ -54,14 +55,16 @@
 
 ---
 
-### 🎯 Goals
+## 🎯 GOALS
 
-- ✅ Master full-stack web development workflows
-- 🚀 Launch meaningful side projects & tools
-- 🧠 Contribute to open-source and collaborate globally
-- ✍️ Build a personal dev blog to document my journey
+- ✅ Master full-stack development workflows
+- 🚀 Launch impactful side projects
+- 🧩 Contribute to open-source communities
+- ✍️ Build and maintain a public dev blog
 
 ---
+
+## 🌐 AESTHETIC TOUCH
 
 <p align="center">
   <img src="https://media.giphy.com/media/hp3dmE0uQTCJi/giphy.gif" width="400" />
