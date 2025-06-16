@@ -63,7 +63,10 @@
 
 ---
 
-<img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="450" />
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif" width="400" />
+</p>
+
 
 
 ---
