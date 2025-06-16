@@ -1,50 +1,21 @@
-<h1 align="center">👋 Hey there, I'm <span style="color:#0077ff;">Mark Alfred</span> 🚀</h1>
+<h1 align="center">Hi, I'm Mark Alfred 👨‍💻</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=CS+Student+|+Aspiring+Software+Engineer;Coding+my+dreams+into+reality;Always+Learning+Something+New!&center=true&width=550&height=45&color=00F5FF&vCenter=true&size=22">
-</p>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=m4rk4lfred&style=flat-square&color=blue" alt=""/>
-</div>
-
----
-
-## 🌟 About Me
-
-- 🎓 2nd Year CS Student @ MMSU  
-- 💻 Love building things with **Java**, **C++**, and **JavaScript**  
-- 🧠 Passionate about **Problem Solving**, **Web Dev**, and **UI/UX**
-
----
-
-## 🚀 Currently Exploring
-
-- ⚛️ React, Express & MySQL (Full Stack)
-- 🎨 Tailwind CSS + Bootstrap + Framer Motion
-- 🧠 DSA (because logic matters!)
-
----
-
-## 🤝 Let’s Collaborate On
-
-- ⚡ Web apps that solve real problems  
-- 🧩 Fun & innovative open-source projects  
-- 🧠 Anything AI, Automation, or Student Tools
-
----
-
-## 📫 Connect With Me
-
-<p align="left">
-  <a href="mailto:m4rk4lfredstdy@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/feed/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white"></a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Software+Engineer+in+Training;Full-Stack+Web+Developer;Passionate+Problem+Solver;Focused+on+Clean+%26+Creative+Code" alt="Typing SVG" />
 </p>
 
 ---
 
-## ⚙️ Tech Stack & Tools
+### 📌 About Me
+
+- 🎓 2nd Year Computer Science student at **Mariano Marcos State University**
+- 💻 Focused on **Java**, **C++**, **JavaScript**, and **web development**
+- 🌐 Exploring **React**, **Node.js**, **MySQL**, and **UI/UX**
+- 📈 Committed to **continuous learning**, system design, and elegant code
+
+---
+
+### 🚀 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,cpp,js,html,css,react,nodejs,express,mysql,tailwind,bootstrap,git,vscode,figma" />
@@ -52,34 +23,54 @@
 
 ---
 
-## 📈 GitHub Stats
+### 📊 GitHub Insights
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=m4rk4lfred&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=m4rk4lfred&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=m4rk4lfred&show_icons=true&theme=transparent&hide_border=true&icon_color=36BCF7&title_color=36BCF7" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=m4rk4lfred&theme=transparent&hide_border=true&ring=36BCF7&fire=36BCF7" height="180px"/>
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4rk4lfred&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4rk4lfred&layout=compact&theme=transparent&hide_border=true&title_color=36BCF7" height="140px"/>
 </p>
 
 ---
 
-## 🎯 Current Goals
+### 🌱 Currently Exploring
 
-- ✅ Build and deploy full-stack web apps  
-- 📚 Learn DevOps basics (CI/CD, hosting, etc.)  
-- 📝 Share knowledge via blog posts & projects  
-- 🧩 Finish at least 1 open-source contribution per month
+- Full-Stack Engineering (React + Express + SQL)
+- Frontend Animation using Tailwind & Framer Motion
+- Efficient backend logic and RESTful API design
 
 ---
 
-## ⚡ Fun Fact
+### 🤝 Let’s Connect
 
-**I code better when there's iced coffee beside me ☕💻**
+<p align="center">
+  <a href="mailto:m4rk4lfredstdy@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/feed/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
+</p>
+
+---
+
+### 🎯 Goals
+
+- ✅ Master full-stack web development workflows
+- 🚀 Launch meaningful side projects & tools
+- 🧠 Contribute to open-source and collaborate globally
+- ✍️ Build a personal dev blog to document my journey
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="300" />
+</p>
+
+<p align="center"><i>"Code is not just syntax — it's a tool for building the future."</i></p>
 
 ---
 
 <!---
-✨ This README is proudly crafted with passion and code ✨
+m4rk4lfred/m4rk4lfred is a ✨ high-potential profile ✨ — thanks for visiting!
 --->
