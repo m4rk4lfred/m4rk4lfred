@@ -1,66 +1,85 @@
-<h1 align="center">Hi there, I'm Mark Alfred 👋</h1>
+<h1 align="center">👋 Hey there, I'm <span style="color:#0077ff;">Mark Alfred</span> 🚀</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=CS+Student+%7C+Aspiring+Software+Engineer;Lover+of+Code+%26+Innovation;Always+Learning+Something+New!&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=CS+Student+|+Aspiring+Software+Engineer;Coding+my+dreams+into+reality;Always+Learning+Something+New!&center=true&width=550&height=45&color=00F5FF&vCenter=true&size=22">
+</p>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=m4rk4lfred&style=flat-square&color=blue" alt=""/>
+</div>
+
+---
+
+## 🌟 About Me
+
+- 🎓 2nd Year CS Student @ MMSU  
+- 💻 Love building things with **Java**, **C++**, and **JavaScript**  
+- 🧠 Passionate about **Problem Solving**, **Web Dev**, and **UI/UX**
+
+---
+
+## 🚀 Currently Exploring
+
+- ⚛️ React, Express & MySQL (Full Stack)
+- 🎨 Tailwind CSS + Bootstrap + Framer Motion
+- 🧠 DSA (because logic matters!)
+
+---
+
+## 🤝 Let’s Collaborate On
+
+- ⚡ Web apps that solve real problems  
+- 🧩 Fun & innovative open-source projects  
+- 🧠 Anything AI, Automation, or Student Tools
+
+---
+
+## 📫 Connect With Me
+
+<p align="left">
+  <a href="mailto:m4rk4lfredstdy@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/feed/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white"></a>
 </p>
 
 ---
 
-### 👀 I’m interested in:
-- 🔧 Building useful apps with Java, C++, and JavaScript  
-- 🌐 Web Development (MERN, Bootstrap, Tailwind)  
-- 🧠 Problem Solving and Algorithms  
-
-### 🌱 I’m currently learning:
-- ⚙️ React, Express, and MySQL (Full Stack Dev)
-- 🎨 Bootstrap + Tailwind + UI/UX
-
-### 💞️ I’m looking to collaborate on:
-- 🚀 Innovative web 
-- 🧩 Fun and educational open-source projects
-- 🤖 Anything AI-related (starting to explore this!)
-
-### 📫 How to reach me:
-[![Gmail Badge](https://img.shields.io/badge/-m4rk4lfredstdy@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:m4rk4lfredstdy@gmail.com)
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077b5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/feed/)
-[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=Google-Chrome&logoColor=white)](https://yourportfolio.com)
-
-### 😄 Pronouns:
-He / Him
-
-### ⚡ Fun fact:
-I can debug code faster with iced coffee in hand ☕💻
-
----
-
-## 📊 GitHub Stats
+## ⚙️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=m4rk4lfred&show_icons=true&theme=react" height="170">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=m4rk4lfred&theme=react" height="170">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4rk4lfred&layout=compact&theme=react" height="130">
+  <img src="https://skillicons.dev/icons?i=java,cpp,js,html,css,react,nodejs,express,mysql,tailwind,bootstrap,git,vscode,figma" />
 </p>
 
 ---
 
-## 🛠️ Languages & Tools
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,cpp,js,react,html,css,tailwind,bootstrap,mysql,git,vscode" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=m4rk4lfred&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=m4rk4lfred&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4rk4lfred&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-## 📍 Current Goals
-- ✅ Master full-stack development (React + Express + MySQL)
-- 📘 Complete a mini project per month
-- ✍️ Document everything I learn in public
+## 🎯 Current Goals
+
+- ✅ Build and deploy full-stack web apps  
+- 📚 Learn DevOps basics (CI/CD, hosting, etc.)  
+- 📝 Share knowledge via blog posts & projects  
+- 🧩 Finish at least 1 open-source contribution per month
+
+---
+
+## ⚡ Fun Fact
+
+**I code better when there's iced coffee beside me ☕💻**
 
 ---
 
 <!---
-m4rk4lfred/m4rk4lfred is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
+✨ This README is proudly crafted with passion and code ✨
 --->
