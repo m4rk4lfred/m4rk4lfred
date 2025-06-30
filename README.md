@@ -8,7 +8,6 @@
 
 ## 🧑‍💼 ABOUT ME
 
-
 - 🎓 2nd Year Computer Science student at **Mariano Marcos State University**
 - 💻 Focused on **Java**, **C++**, **JavaScript**, and **web development**
 - 🌐 Exploring **React**, **Node.js**, **MySQL**, and **UI/UX**
@@ -28,7 +27,13 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=m4rk4lfred&show_icons=true&theme=transparent&hide_border=true&icon_color=36BCF7&title_color=36BCF7" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=m4rk4lfred&theme=transparent&hide_border=true&ring=36BCF7&fire=36BCF7" height="180px"/>
+  <br><br>
+
+  <!-- 🔥 Manual Streak Tracker Section -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Current+Streak%3A+🔥+Day+%3D+12;Keep+the+momentum+going!" />
+  <br><br>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=m4rk4lfred&theme=transparent&hide_border=true&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7" height="180px"/>
 </p>
 
 <p align="center">
