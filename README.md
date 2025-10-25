@@ -8,7 +8,7 @@
 
 ## 🧑‍💼 ABOUT ME
 
-- 🎓 2nd Year Computer Science student at **Mariano Marcos State University**
+- 🎓 3rd Year Computer Science student at **Mariano Marcos State University**
 - 💻 Focused on **Java**, **C++**, **JavaScript**, and **web development**
 - 🌐 Exploring **React**, **Node.js**, **MySQL**, and **UI/UX**
 - 📈 Committed to **continuous learning**, system design, and elegant code
