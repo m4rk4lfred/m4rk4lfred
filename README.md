@@ -73,6 +73,7 @@
 
 <p align="center">
   <img src="https://media.giphy.com/media/hp3dmE0uQTCJi/giphy.gif" width="400" />
+  .
 </p>
 
 ---
